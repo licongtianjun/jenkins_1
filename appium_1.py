@@ -39,8 +39,7 @@ class Ceshi(unittest.TestCase):
         driver.find_element_by_id('com.alibaba.android.rimet:id/btn_next').click()
         time.sleep(7)
         TouchAction(driver).tap(x=960, y=1832).perform()
-        time.sleep(10)
-        aa = driver.find_element_by_id('android:id/message').text
+        aa = driver.find_element_by_id('com.alibaba.android.rimet:id/menu_current_company').text
         self.assertNotEqual(aa, '号码或密码错误，请重新输入', '账号密码一致时,测试没通过')
 
 if __name__ == '__main__':

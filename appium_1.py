@@ -1,7 +1,7 @@
-from appium import webdriver
+import webdriver
 import time
 import unittest
-from appium.webdriver.common.touch_action import TouchAction
+import TouchAction
 
 class Ceshi(unittest.TestCase):
     def setUp(self):

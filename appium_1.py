@@ -28,8 +28,8 @@ class Ceshi(unittest.TestCase):
         self.assertEqual(aa,'号码或密码错误，请重新输入','账号密码不对时,测试没通过')
     def test_2(self):
         driver = webdriver.Remote("http://localhost:4723/wd/hub", self.caps)
+        driver.implicitly_wait(20)
         TouchAction(driver).press(x=555, y=1846).move_to(x=588, y=876).release().perform()
-        driver.implicitly_wait(10)
         driver.find_element_by_id("android:id/button1").click()
         driver.find_element_by_id("android:id/button1").click()
         driver.find_element_by_id("com.alibaba.android.rimet:id/login_slide_btn").click()

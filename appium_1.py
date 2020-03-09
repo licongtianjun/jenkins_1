@@ -14,7 +14,7 @@ class Ceshi(unittest.TestCase):
     def test_1(self):
         driver = webdriver.Remote("http://localhost:4723/wd/hub",self.caps)
         TouchAction(driver).press(x=555, y=1846).move_to(x=588, y=876).release().perform()
-        driver.implicitly_wait(10)
+        driver.implicitly_wait(20)
         driver.find_element_by_id("android:id/button1").click()
         driver.find_element_by_id("android:id/button1").click()
         driver.find_element_by_id("com.alibaba.android.rimet:id/login_slide_btn").click()

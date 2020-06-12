@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7df2393-0d45-4031-b66c-2bb16da3f71b" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="QRshouhuo.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WYB_web/QRshouhuo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_3_payment.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TEXT/qiye_chengyunren/test_3_payment.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#47#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>4723</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/WYB_web/SiJi_jiedan.py" />
+        <option value="$PROJECT_DIR$/WYB_web/test_liucheng.py" />
+        <option value="$PROJECT_DIR$/WYB_JK/yue.py" />
+        <option value="$PROJECT_DIR$/CYB_app/SiJi_jiedan.py" />
+        <option value="$PROJECT_DIR$/zuoye.py" />
+        <option value="$PROJECT_DIR$/CYB_app/SiJi.py" />
+        <option value="$PROJECT_DIR$/TEXT/test_liucheng_1.py" />
+        <option value="$PROJECT_DIR$/TEXT/CYyunhuo_test.py" />
+        <option value="$PROJECT_DIR$/TEXT/SH&amp;ZF_liucheng.py" />
+        <option value="$PROJECT_DIR$/TEXT/test_liucheng.py" />
+        <option value="$PROJECT_DIR$/TEXT/SH&amp;ZF_liucheng_test.py" />
+        <option value="$PROJECT_DIR$/TEXT/total-process_test.py" />
+        <option value="$PROJECT_DIR$/TEXT/FaHuo_test.py" />
+        <option value="$PROJECT_DIR$/TEXT/test_3_payment.py" />
+        <option value="$PROJECT_DIR$/CYB_app/CYR.py" />
+        <option value="$PROJECT_DIR$/TEXT/test_1_FaHuo_.py" />
+        <option value="$PROJECT_DIR$/TEXT/test_2_CYyunhuo.py" />
+        <option value="$PROJECT_DIR$/TEXT/中间人流程/test_1_FaHuo_.py" />
+        <option value="$PROJECT_DIR$/WYB_web/FaHuoGuanLi.py" />
+        <option value="$PROJECT_DIR$/TEXT/中间人流程-指派司机/test_2_CYyunhuo.py" />
+        <option value="$PROJECT_DIR$/TEXT/中间人流程-指派司机/test_3_payment.py" />
+        <option value="$PROJECT_DIR$/TEXT/中间人流程-指派司机/test_1_FaHuo_.py" />
+        <option value="$PROJECT_DIR$/TEXT/中间人接单流程_指派司机/test_2_CYyunhuo.py" />
+        <option value="$PROJECT_DIR$/TEXT/中间人接单流程_指派司机/test_3_payment.py" />
+        <option value="$PROJECT_DIR$/TEXT/中间人接单流程_指派司机/test_2_sjyunhuo.py" />
+        <option value="$PROJECT_DIR$/CYB_app/SiJi/SiJi.py" />
+        <option value="$PROJECT_DIR$/TEXT/企业承运人流程/ceshi.py" />
+        <option value="$PROJECT_DIR$/TEXT/企业承运人流程/test_1_FaHuo_.py" />
+        <option value="$PROJECT_DIR$/CYB_app/ChengYunRen/CYR_intermediary/CYR_income.py" />
+        <option value="$PROJECT_DIR$/WYB_web/my_wallet.py" />
+        <option value="$PROJECT_DIR$/TEXT/企业承运人流程/test_3_payment.py" />
+        <option value="$PROJECT_DIR$/TEXT/企业承运人流程/test_2_CYyunhuo.py" />
+        <option value="$PROJECT_DIR$/作业.py" />
+        <option value="$PROJECT_DIR$/作业/Tiger.py" />
+        <option value="$PROJECT_DIR$/作业/Sleep.py" />
+        <option value="$PROJECT_DIR$/作业/Game.py" />
+        <option value="$PROJECT_DIR$/zuoye/Sleep.py" />
+        <option value="$PROJECT_DIR$/zuoye/Tiger.py" />
+        <option value="$PROJECT_DIR$/zuoye/Game.py" />
+        <option value="$PROJECT_DIR$/WYB_web/payment.py" />
+        <option value="$PROJECT_DIR$/WYB_web/Invoice.py" />
+        <option value="$PROJECT_DIR$/TEXT/企业承运人流程/test_4_invoice.py" />
+        <option value="$PROJECT_DIR$/WYB_web/INVOICE/Invoice_carrier.py" />
+        <option value="$PROJECT_DIR$/WYB_web/FaHuo/FaHuoGuanLi.py" />
+        <option value="$PROJECT_DIR$/background/invoice.py" />
+        <option value="$PROJECT_DIR$/WYB_web/ceshi.py" />
+        <option value="$PROJECT_DIR$/TEXT/qiye_chengyunren/test_4_invoice.py" />
+        <option value="$PROJECT_DIR$/WYB_web/QRshouhuo.py" />
+        <option value="$PROJECT_DIR$/background/Invoice.py" />
+        <option value="$PROJECT_DIR$/TEXT/qiye_chengyunren/test_3_payment.py" />
+        <option value="$PROJECT_DIR$/CYB_app/ChengYunRen/CYR_company/CYR.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="475" />
+    <option name="y" value="170" />
+    <option name="width" value="1040" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HuoYunBao_WangYun_Web_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HuoYunBao_WangYun_Web_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HuoYunBao_WangYun_Web_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HuoYunBao_WangYun_Web_1" type="462c0819:PsiDirectoryNode" />
+              <item name="background" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HuoYunBao_WangYun_Web_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HuoYunBao_WangYun_Web_1" type="462c0819:PsiDirectoryNode" />
+              <item name="TEXT" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HuoYunBao_WangYun_Web_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HuoYunBao_WangYun_Web_1" type="462c0819:PsiDirectoryNode" />
+              <item name="TEXT" type="462c0819:PsiDirectoryNode" />
+              <item name="qiye_chengyunren" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HuoYunBao_WangYun_Web_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HuoYunBao_WangYun_Web_1" type="462c0819:PsiDirectoryNode" />
+              <item name="WYB_web" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\git\hyb_testCode_testPersion\HuoYunBao_WangYun_Web_1\TEXT\中间人接单流程_指派司机" />
+      <recent name="F:\HuoYunBao_WangYun_Web_1\CYB_app\ChengYunRen\CYR_intermediary" />
+      <recent name="F:\HuoYunBao_WangYun_Web\TEXT\中间人流程" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\git\hyb_testCode_testPersion\HuoYunBao_WangYun_Web_1\WYB_web\INVOICE" />
+      <recent name="F:\HuoYunBao_WangYun_Web\TEXT" />
+      <recent name="F:\HuoYunBao_WangYun_Web\TEXT\中间人接单流程_指派司机" />
+      <recent name="F:\HuoYunBao_WangYun_Web\CYB_app\ChengYunRen\CYR_company" />
+      <recent name="F:\HuoYunBao_WangYun_Web\CYB_app\SiJi" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in test_3_payment.py">
+    <configuration name="Invoice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HuoYunBao_WangYun_Web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/background" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/background/Invoice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="ceshi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HuoYunBao_WangYun_Web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WYB_web" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WYB_web/ceshi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Unittests in qiye_chengyunren" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="HuoYunBao_WangYun_Web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TEXT/qiye_chengyunren" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/TEXT/qiye_chengyunren&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="Unittests in test_3_payment.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="HuoYunBao_WangYun_Web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TEXT/qiye_chengyunren" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/TEXT/qiye_chengyunren/test_3_payment.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="Unittests in test_4_invoice.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="HuoYunBao_WangYun_Web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TEXT/qiye_chengyunren" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/TEXT/qiye_chengyunren/test_4_invoice.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.ceshi" />
+      <item itemvalue="Python tests.Unittests in qiye_chengyunren" />
+      <item itemvalue="Python tests.Unittests in test_3_payment.py" />
+      <item itemvalue="Python.Invoice" />
+      <item itemvalue="Python tests.Unittests in test_4_invoice.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in test_3_payment.py" />
+        <item itemvalue="Python tests.Unittests in qiye_chengyunren" />
+        <item itemvalue="Python tests.Unittests in test_4_invoice.py" />
+        <item itemvalue="Python.Invoice" />
+        <item itemvalue="Python.ceshi" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7df2393-0d45-4031-b66c-2bb16da3f71b" name="Default" comment="" />
+      <created>1590116843109</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590116843109</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_test_4_invoice_py - 2020.06.12 at 13h 55m 05s.xml">
+      <configuration name="Unittests in test_4_invoice.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_qiye_chengyunren - 2020.06.12 at 14h 02m 57s.xml">
+      <configuration name="Unittests in qiye_chengyunren" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_3_payment_py - 2020.06.12 at 14h 20m 33s.xml">
+      <configuration name="Unittests in test_3_payment.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_3_payment_py - 2020.06.12 at 15h 23m 08s.xml">
+      <configuration name="Unittests in test_3_payment.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_3_payment_py - 2020.06.12 at 15h 24m 06s.xml">
+      <configuration name="Unittests in test_3_payment.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_3_payment_py - 2020.06.12 at 15h 27m 12s.xml">
+      <configuration name="Unittests in test_3_payment.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_3_payment_py - 2020.06.12 at 15h 32m 34s.xml">
+      <configuration name="Unittests in test_3_payment.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_4_invoice_py - 2020.06.12 at 15h 34m 23s.xml">
+      <configuration name="Unittests in test_4_invoice.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_qiye_chengyunren - 2020.06.12 at 15h 42m 56s.xml">
+      <configuration name="Unittests in qiye_chengyunren" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_3_payment_py - 2020.06.12 at 16h 04m 33s.xml">
+      <configuration name="Unittests in test_3_payment.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18020834" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.500813" side_tool="true" weight="0.256" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.499187" weight="0.3893617" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32933334" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39893618" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32943678" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="9" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/WYB_web/payment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WYB_web/QRshouhuo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WYB_web/payment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WYB_web/QRshouhuo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TEXT/企业承运人流程/test_3_payment.py" />
+    <entry file="file://$PROJECT_DIR$/CYB_app/ChengYunRen/CYR_intermediary/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TEXT/企业承运人流程/test_3_payment.py" />
+    <entry file="file://$PROJECT_DIR$/TEXT/企业承运人流程/test_3_payment.py" />
+    <entry file="file://$PROJECT_DIR$/WYB_web/FaHuo/FaHuoGuanLi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="19" column="67" lean-forward="true" selection-start-line="19" selection-start-column="67" selection-end-line="19" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WYB_web/ceshi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3300">
+          <caret line="113" selection-start-line="113" selection-end-line="114" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-65">
+          <caret line="615" column="8" selection-start-line="615" selection-start-column="8" selection-end-line="615" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/support/wait.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="68" column="19" lean-forward="true" selection-start-line="68" selection-start-column="19" selection-end-line="68" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file2.txt" />
+    <entry file="file://$PROJECT_DIR$/zuoye2.py" />
+    <entry file="file://$PROJECT_DIR$/WYB_web/Details/order_details.py" />
+    <entry file="file://$PROJECT_DIR$/zuoye.py" />
+    <entry file="file://$PROJECT_DIR$/TEXT/test_liucheng_1.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="501" column="8" selection-start-line="501" selection-start-column="8" selection-end-line="501" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TEXT/test_liucheng.py" />
+    <entry file="file://$PROJECT_DIR$/TEXT/total-process_test.py" />
+    <entry file="file://$PROJECT_DIR$/TEXT/ceshi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CYB_app/ChengYunRen/CYR_intermediary/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TEXT/中间人接单流程_指派司机/test_1_FaHuo_.py" />
+    <entry file="file://$PROJECT_DIR$/TEXT/中间人接单流程_指派司机/test_2_sjyunhuo.py" />
+    <entry file="file://$PROJECT_DIR$/TEXT/中间人接单流程_指派司机/test_3_payment.py" />
+    <entry file="file://$PROJECT_DIR$/CYB_app/ChengYunRen/CYR_intermediary/CYR_income.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="16" column="70" selection-start-line="16" selection-start-column="70" selection-end-line="16" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CYB_app/SiJi/SiJi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="127" column="10" lean-forward="true" selection-start-line="127" selection-start-column="10" selection-end-line="127" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TEXT/企业承运人流程/test_3_payment.py" />
+    <entry file="file://$PROJECT_DIR$/作业.py" />
+    <entry file="file://$PROJECT_DIR$/zuoye/Sleep.py" />
+    <entry file="file://$PROJECT_DIR$/zuoye/Tiger.py" />
+    <entry file="file://$PROJECT_DIR$/zuoye/Game.py" />
+    <entry file="file://$PROJECT_DIR$/TEXT/企业承运人流程/test_2_CYyunhuo.py" />
+    <entry file="file://$PROJECT_DIR$/WYB_web/payment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="4" selection-start-line="4" selection-end-line="15" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TEXT/企业承运人流程/test_1_FaHuo_.py" />
+    <entry file="file://$PROJECT_DIR$/TEXT/企业承运人流程/test_4_invoice.py" />
+    <entry file="file://$PROJECT_DIR$/TEXT/中间人接单流程_指派司机/test_4_invoice.py" />
+    <entry file="file://$PROJECT_DIR$/WYB_web/my_wallet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="846">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WYB_web/INVOICE/Invoice_carrier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2040">
+          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TEXT/zhongjianren_chengyun/test_1_FaHuo_.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WYB_web/QRshouhuo_1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TEXT/qiye_chengyunren/test_1_FaHuo_.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TEXT/qiye_chengyunren/test_4_invoice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WYB_web/ceshi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WYB_web/FaHuo/FaHuoGuanLi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="79" column="112" lean-forward="true" selection-start-line="79" selection-start-column="112" selection-end-line="79" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/background/Invoice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="60" column="13" lean-forward="true" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WYB_web/QRshouhuo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TEXT/qiye_chengyunren/test_2_CYyunhuo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="178" lean-forward="true" selection-start-line="178" selection-end-line="178" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WYB_JK/yue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CYB_app/ChengYunRen/CYR_company/CYR.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="190" lean-forward="true" selection-start-line="190" selection-end-line="190" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TEXT/qiye_chengyunren/test_3_payment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
